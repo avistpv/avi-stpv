@@ -9,6 +9,9 @@
 <a href="https://linkedin.com/in/avihail-stepovyi" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="linkedin logo" title="LinkedIn" margin="100px" height="35" />
 </a>
+<a href="mailto:john@example.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=EA4335" alt="linkedin logo" title="Gmail" margin="100px" height="35" />
+</a>
 &nbsp;
 
 
