@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="linkedin logo" title="LinkedIn" margin="100px" height="35" />
 </a>
 <a href="mailto:stepovoyas@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-EA4335?logo=gmail&logoColor=EA4335" alt="linkedin logo" title="Gmail" margin="100px" height="35" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=EA4335" alt="gmail logo" title="Gmail" margin="75px" height="35" />
 </a>
 &nbsp;
 
