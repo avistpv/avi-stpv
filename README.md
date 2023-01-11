@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Avi</h1>
+<h1 align="center">Hi, my name is Avi and this is my journey to the world of code</h1>
 <h3 align="center">Full-stack developer | MongoDB, Express.js, React, Node.js</h3>
 
 - 🌱 I’m currently learning **additional frameworks**
