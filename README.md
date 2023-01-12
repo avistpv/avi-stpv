@@ -49,8 +49,4 @@ I’m currently looking for my amazing first job🌱
 </p>
  
 
-
-
-
-
-
+![Avi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=avistpv&show_icons=true&theme=tokyonight)
