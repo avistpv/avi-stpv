@@ -50,7 +50,7 @@ I’m currently looking for my amazing first job🌱
  
 
 ---
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avistpv&show_icons=true&theme=radical)
 ![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avistpv&show_icons=true&theme=radical)
 
 ---
