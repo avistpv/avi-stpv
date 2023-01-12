@@ -33,11 +33,12 @@ I’m currently looking for my amazing first job🌱
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs logo"/>&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo"/>
 </p>  
-  
+
+<p align="center">
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma logo"/>&nbsp;
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=node.js&logoColor=white" alt="postman logo"/>&nbsp;  
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs logo"/>&nbsp;  
-  
+</p>
 
  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
   
@@ -48,7 +49,6 @@ I’m currently looking for my amazing first job🌱
 
 
 ---
-
 
 ![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avi-stpv&show_icons=true&theme=tokyonight)
 
