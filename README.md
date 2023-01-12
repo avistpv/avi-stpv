@@ -41,6 +41,7 @@ I’m currently looking for my amazing first job🌱
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="googlecloud logo"/>&nbsp;
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="jest logo"/>&nbsp;
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx logo"/>&nbsp;
+<a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="jsonwebtoken logo"/>
 </p>
  
 
