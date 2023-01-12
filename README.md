@@ -1,4 +1,8 @@
 <h1 align="center">Hi, my name is Avi and there's my coding journey</h1>
+![Going to the top](https://drive.google.com/file/d/1k138_dO1eWlLFWLPxXPlTv4CAc6bhSo_/view?usp=share_link)
+
+
+
 <h3 align="center">Full-stack developer | MongoDB, Express.js, React, Node.js</h3>
 
 <p align="center">
@@ -48,5 +52,6 @@ I’m currently looking for my amazing first job🌱
 ---
 
 ![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avi-stpv&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avi-stpv&theme=tokyonight&layout=compact)](https://github.com/avi-stpv/github-readme-stats)
 
 ---
