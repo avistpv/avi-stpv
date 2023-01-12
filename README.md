@@ -52,6 +52,6 @@ I’m currently looking for my amazing first job🌱
 ---
 
 ![Avi's GitHub stats](https://github-readme-stats.vercel.app/api?username=avi-stpv&show_icons=true&theme=tokyonight)&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avi-stpv&theme=tokyonight&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avi-stpv&theme=tokyonight&layout=compact)
 
 ---
