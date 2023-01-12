@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **additional frameworks**
 
 - 📫 How to reach me **stepovoyas@gmail.com**
-
+---
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/avihail-stepovyi" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="linkedin logo" title="LinkedIn" margin="100px" height="35" />
