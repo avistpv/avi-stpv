@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Avi and there's my coding journey</h1>
-![Going to the top](https://drive.google.com/file/d/1k138_dO1eWlLFWLPxXPlTv4CAc6bhSo_/view?usp=share_link)
-
-
+<h4 align="center">
+  <img src="avstpv.jpg" width="1080px"/> 
+</h4>
 
 <h3 align="center">Full-stack developer | MongoDB, Express.js, React, Node.js</h3>
 
