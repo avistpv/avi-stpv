@@ -7,6 +7,7 @@ I’m currently looking for my amazing first job🌱
 
 ---
 <h3 align="center">Stay in touch:</h3>
+
 <p align="center">
 <a href="https://linkedin.com/in/avihail-stepovyi" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="linkedin logo" title="LinkedIn" margin="100px" height="35" />
@@ -21,11 +22,9 @@ I’m currently looking for my amazing first job🌱
 <h3 align="center">Technologies and Frameworks:</h3>
 
 <p align="center">
-<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html logo"/> </a>&nbsp;
-</p>
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html logo"/></a></p>
 <p align="center">
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css logo"/> </a>&nbsp;
-</p>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css logo"/></a></p>
 
 
 
