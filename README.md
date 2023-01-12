@@ -48,5 +48,8 @@ I’m currently looking for my amazing first job🌱
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="jsonwebtoken logo"/>
 </p>
  
-
+---
+  
 ![Avi's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=avistpv&show_icons=true&theme=tokyonight)
+
+---
