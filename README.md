@@ -6,7 +6,7 @@
 <h3 align="center">Full-stack developer | MongoDB, Express.js, React, Node.js</h3>
 
 <p align="center">
-I’m currently looking for my amazing first job🌱 
+"Not all dreamers are winners, but all winners are dreamers..."
 </p>
 
 ---
