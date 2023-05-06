@@ -1,6 +1,6 @@
 <h1 align="center">Hi, my name is Avi and there's my coding journey</h1>
 <h4 align="center">
-  <img src="avstpv.png" width="540px"/> 
+  <a href="https://app.netlify.com/sites/avihail-stepovyi/overview" target="_blank" rel="noreferrer"> <img src="avstpv.png" width="540px"/> </a>&nbsp;
 </h4>
 
 <h3 align="center">Full-stack developer | MongoDB, Express.js, React, Node.js</h3>
