@@ -1,6 +1,6 @@
 <h1 align="center">Hi, my name is Avi and there's my coding journey</h1>
 <h4 align="center">
-  <img src="avstpv.jpg" width="540px"/> 
+  <img src="avstpv.png" width="540px"/> 
 </h4>
 
 <h3 align="center">Full-stack developer | MongoDB, Express.js, React, Node.js</h3>
