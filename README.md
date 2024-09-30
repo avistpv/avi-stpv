@@ -50,6 +50,6 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx logo"/>&nbsp;
 <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="jsonwebtoken logo"/>
 </p>
-<a href="https://u8views.com/github/avistpv"><img src="https://u8views.com/api/v1/github/profiles/66640299/views/day-week-month-total-count.svg"></a>
-
+<!-- <a href="https://u8views.com/github/avistpv"><img src="https://u8views.com/api/v1/github/profiles/66640299/views/day-week-month-total-count.svg"></a>
+ -->
 ---
