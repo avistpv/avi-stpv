@@ -3,9 +3,6 @@
   <a href="https://avihail-stepovyi.netlify.app" target="_blank" rel="noreferrer"> <img src="avstpv.png" width="540px"/> </a>&nbsp;
 </h4> -->
 <!-- Markdown -->
-<p align="center">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
 
 
 <h3 align="center">Full-stackdeveloper | MongoDB, Express.js, React, Node.js</h3>
@@ -57,4 +54,7 @@
 </p>
 <!-- <a href="https://u8views.com/github/avistpv"><img src="https://u8views.com/api/v1/github/profiles/66640299/views/day-week-month-total-count.svg"></a>
  -->
----
+
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
