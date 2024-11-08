@@ -2,7 +2,9 @@
 <!-- <h4 align="center">
   <a href="https://avihail-stepovyi.netlify.app" target="_blank" rel="noreferrer"> <img src="avstpv.png" width="540px"/> </a>&nbsp;
 </h4> -->
+<!-- Markdown -->
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <p align="center">
 <img align="center" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 </p>
